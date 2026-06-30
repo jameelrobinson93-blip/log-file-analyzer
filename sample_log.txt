@@ -1,0 +1,9 @@
+2026-06-30 09:01 INFO User john logged in successfully
+2026-06-30 09:05 WARNING Failed login for user admin
+2026-06-30 09:06 WARNING Failed login for user admin
+2026-06-30 09:07 WARNING Failed login for user admin
+2026-06-30 09:08 INFO User sarah logged in successfully
+2026-06-30 09:10 ERROR Connection from IP 185.200.118.15
+2026-06-30 09:12 WARNING Failed login for user guest
+2026-06-30 09:15 ERROR Malware detected
+2026-06-30 09:20 ERROR Connection from IP 45.67.89.22

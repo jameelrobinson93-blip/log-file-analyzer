@@ -1,0 +1,16 @@
+LOG FILE ANALYSIS REPORT
+
+Successful Logins : 2
+Failed Logins     : 4
+Security Errors   : 3
+
+Suspicious IP Addresses
+-----------------------
+185.200.118.15
+45.67.89.22
+
+
+Risk Score: 7
+Threat Level: HIGH RISK
+
+Possible Brute Force Attack Detected
